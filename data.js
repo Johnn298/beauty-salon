@@ -3,8 +3,8 @@ const servicesData = [
     {
         id: "manicure",
         title: "Manicure",
-        icon: "images/manicure.jpg",
-        exampleImage: "images/manicure.jpg",
+        icon: "manicure.jpg",
+        exampleImage: "manicure.jpg",
         services: [
             { name: "Unhas Acrílicas", price: "de ****", description: "Unhas de acrílico profissionais com qualquer design e cor." },
             { name: "Unhas de acrílico com extensão", price: "de ****", description: "Extensão completa de unhas com alongamento e design profissional." },
@@ -21,8 +21,8 @@ const servicesData = [
     {
         id: "pedicure",
         title: "Pedicure",
-        icon: "images/pedicure.jpg",
-        exampleImage: "images/pedicure.jpg",
+        icon: "pedicure.jpg",
+        exampleImage: "pedicure.jpg",
         services: [
             { name: "Pedicure Tradicional", price: "de ****", description: "Pedicure clássico com esmaltação e cuidados profissionais." },
             { name: "Esmalte em Gel para Pedicure", price: "de ****", description: "Pedicure com esmalte em gel de longa duração." },
@@ -34,8 +34,8 @@ const servicesData = [
     {
         id: "pestanas",
         title: "Pestanas",
-        icon: "images/pestanas.jpg",
-        exampleImage: "images/pestanas.jpg",
+        icon: "pestanas.jpg",
+        exampleImage: "pestanas.jpg",
         services: [
             { name: "Extensões de Pestanas", price: "de ****", description: "Extensões de Pestanas profissionais com aplicação individual." },
             { name: "Pestanas Clássicas", price: "de ****", description: "Extensões de pestanas clássicas (fio a fio)." },
@@ -47,8 +47,8 @@ const servicesData = [
     {
         id: "sobrancelhas",
         title: "Sobrancelhas",
-        icon: "images/sobrancelhas.jpg",
-        exampleImage: "images/sobrancelhas.jpg",
+        icon: "sobrancelhas.jpg",
+        exampleImage: "sobrancelhas.jpg",
         services: [
             { name: "Modelagem de Sobrancelhas", price: "de ****", description: "Correção das sobrancelhas para aparência ideal." },
             { name: "Depilação com Linha", price: "de ****", description: "Remoção de pelos utilizando técnica de linha." },
@@ -59,8 +59,8 @@ const servicesData = [
     {
         id: "depilacao",
         title: "Depilação",
-        icon: "images/depilacao.jpg",
-        exampleImage: "images/depilacao.jpg",
+        icon: "depilacao.jpg",
+        exampleImage: "depilacao.jpg",
         services: [
             { name: "Depilação Brasileira", price: "de ****", description: "Remoção profissional de pelos com cera." },
             { name: "Serviços de Depilação com Cera", price: "de ****", description: "Remoção de pelos no corpo e rosto com cera." },
@@ -71,8 +71,8 @@ const servicesData = [
     {
         id: "maquilhagem",
         title: "Maquilhagem",
-        icon: "images/maquilhagem.jpg",
-        exampleImage: "images/maquilhagem.jpg",
+        icon: "maquilhagem.jpg",
+        exampleImage: "maquilhagem.jpg",
         services: [
             { name: "Maquilhagem Permanente", price: "de ****", description: "Maquilhagem permanente com resultados duradouros." },
             { name: "Maquilhagem Permanente de Sobrancelhas", price: "de ****", description: "Maquilhagem permanente das sobrancelhas com resultado natural." },
